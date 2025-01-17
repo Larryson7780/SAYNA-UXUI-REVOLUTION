@@ -1,0 +1,79 @@
+Réaliser un audit c'est quoi?
+
+Apporter des propositions d'améliorations (optimiser le site de mon choix)
+
+Prener le site de Sayna.space si vous le souhaitiez
+
+
+Sélectionner une seule page
+De préférence Landing Page pas trop longue
+
+Nom du dépôts: ‭SAYNA-UXUI-REVOLUTION‬
+
+Utiliser FIGMA, et faire une partage depuis le projet figma
+
+Télécharger au format PDF le projet dans Figma
+Déposer tous dans le dépôt Github
+
+
+
+Objectif: Réaliser un audit UX sur les fonctionnalités du site de mon choix
+
+Proposer des améliorations
+
+Landing Page seulement
+
+Pour réaliser l'audit, faire:
+
+●‬ ‭Benchmark (Inspiration) / Audit‬
+‭●‬ ‭Création de persona‬
+‭●‬ ‭Empathy map‬
+‭●‬ ‭Liste des besoins‬
+‭●‬ ‭Wireframe‬
+‭●‬ ‭L’audit et l’optimisation seront réalisés exclusivement sur la page d’accueil‬
+
+Faire tous 👆️ dans un seul fichier sauf le Wireframe
+
+Wireframe à faire dans un autre fichier
+
+Commenter les templates si nécéssaire
+
+‭1.‬ ‭Phase initiale‬
+‭a.‬ ‭Téléchargez‬ ‭le‬ ‭template‬ ‭“Phase_de_découverte”‬
+
+
+2.‬ ‭Audit‬
+‭a.‬ ‭Template_phase_de_découverte Figjam (Benchmark)‬
+‭b.‬ ‭Réaliser‬ ‭un‬ ‭Benchmark‬ ‭de‬ ‭la‬ ‭plateforme‬ ‭SAYNA‬ ‭Space‬
+‭c.‬ ‭Mettre en évidence les points positifs.‬
+‭d.‬ ‭Mettre en évidence les points négatifs.‬
+
+
+‭3.‬ ‭Création de persona‬
+‭a.‬ ‭Template_phase_de_découverte Figjam (Persona)‬
+‭b.‬ ‭Réaliser un Persona afin de comprendre la cible du site SAYNA.‬
+
+
+4. Empathy Map‬
+‭a.‬ ‭Template_phase_de_découverte Figjam (Empathy Map)‬
+‭b.‬ ‭Réaliser‬ ‭l’empathy‬ ‭map‬: prendre‬ ‭en‬ ‭compte‬ ‭le‬ ‭COMPORTEMENT‬ ‭ainsi‬ ‭que les BESOINS des utilisateurs.‬
+
+‭5.‬ ‭Liste de Besoins‬
+‭a.‬ ‭Template_phase_de_découverte Figjam (Product requirement)‬
+‭b.‬ ‭IDENTIFIER‬ ‭les‬ ‭FONCTIONNALITÉS‬ ‭À‬ ‭REVOIR‬ ‭et‬ ‭les‬ ‭PROPOSITIONS‬ ‭d’OPTIMISATION,‬ ‭à‬
+‭l’ISSUE de la PHASE DE DÉCOUVERTE PRÉCÉDENTE.‬
+
+
+‭Phase de Wireframe :‬
+‭6.‬ ‭Wireframe des fonctionnalités sur Figma‬
+‭a.‬ ‭Créez‬‭ votre ‬‭fichier ‬‭Figma . ‬‭Pour ‬‭ce ‬‭faire,‬‭ ‭créer‬ ‭un‬ ‭“New‬ ‭design‬ ‭file”‬ ‭et‬ ‭de‬ ‭le‬ ‭nommer‬ ‭“Phase_de_wireframe” par exemple.‬
+b. Proposer‬ ‭un‬ ‭wireframe‬ ‭basse‬ ‭fidélité. Justifier le choix de chaque élément via des commentaires.
+c. On peut prendre des templates de wireframe dans Figma (community) ou parter d'une feuille vierge.
+
+Phase de dépôt :‬
+‭1.‬ ‭Dépôt sur Github‬
+‭a.‬ ‭Déposer votre maquette sur Github
+b.‬ ‭Le format du fichier doit être sous les deux versions suivantes :‬
+‭■‬ ‭Format PDF de la maquette‬
+‭■‬ ‭Format original Figma‬
+c. Coller le lien de partage Figma dans README.md
